@@ -34,6 +34,13 @@ header{
     justify-content: space-betwee;
     padding: 32px 15%;
     background: transparent;
-    transition: all-ease .45s;
+    transition: all ease .45s;
 }
-     
+.logo{
+    color: var(--text-color);
+    font-size: 41px;
+    font-weight: 600;
+}
+.logo span{
+    color: var(--main-color);
+}
