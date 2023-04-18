@@ -32,6 +32,8 @@ header{
     display: flex;
     align-items: center; 
     justify-content: space-betwee;
-
+    padding: 32px 15%;
+    background: transparent;
+    transition: all-ease .45s;
 }
      
