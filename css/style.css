@@ -44,3 +44,11 @@ header{
 .logo span{
     color: var(--main-color);
 }
+.navbar{
+   } display: flex;
+}
+.navbar a{
+    font-size: var(--p-font);
+    font-weight: 500;
+    color: var(--text-color);
+}
